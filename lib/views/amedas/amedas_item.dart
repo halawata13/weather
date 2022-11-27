@@ -8,8 +8,9 @@ class AmedasItem extends StatelessWidget {
   final String labelName;
   final String? value;
   final String? unit;
+  final String? subText;
 
-  const AmedasItem({super.key, required this.iconName, required this.labelName, required this.value, this.unit});
+  const AmedasItem({super.key, required this.iconName, required this.labelName, required this.value, this.unit, this.subText});
 
   @override
   Widget build(BuildContext context) {
@@ -39,6 +40,10 @@ class AmedasItem extends StatelessWidget {
             const SizedBox(width: 2),
             Text(unit ?? '', style: const TextStyle(color: colorSubText, fontSize: 16)),
           ],
+        ),
+        Visibility(
+            visible: subText != null,
+            child: Text(subText ?? '', style: const TextStyle(color: colorSubText, fontSize: 12))
         ),
       ],
     );
