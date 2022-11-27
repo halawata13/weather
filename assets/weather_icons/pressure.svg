@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pressure</title>
+    <g id="pressure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M250.5,90 L337,232 L289,232 L289,409 L211,409 L211,232 L164,232 L250.5,90 Z M250.499,124.6 L196.041,214 L229,214 L229,391 L271,391 L271,214 L304.958,214 L250.499,124.6 Z" id="Combined-Shape" fill="#646464" fill-rule="nonzero" transform="translate(250.500000, 249.500000) rotate(-180.000000) translate(-250.500000, -249.500000) "></path>
+        <path d="M402.98527,400 C407.955826,399.991877 411.991853,404.014714 412,408.98527 C412.007978,413.867066 408.127673,417.847411 403.280086,417.995717 L403.01473,417.999988 L97.5147299,418.5 C92.5441738,418.508123 88.5081472,414.485286 88.4999997,409.51473 C88.4920222,404.632934 92.3723266,400.652589 97.2199145,400.504283 L97.4852701,400.500012 L402.98527,400 Z" id="Line" fill="#646464" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,89 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+// ignore_for_file: no_leading_underscores_for_library_prefixes
+import 'package:gql/ast.dart' as _i1;
+
+const fetchRegionList = _i1.OperationDefinitionNode(
+    type: _i1.OperationType.query,
+    name: _i1.NameNode(value: 'fetchRegionList'),
+    variableDefinitions: [],
+    directives: [],
+    selectionSet: _i1.SelectionSetNode(selections: [
+      _i1.FieldNode(
+          name: _i1.NameNode(value: 'regionList'),
+          alias: null,
+          arguments: [],
+          directives: [],
+          selectionSet: _i1.SelectionSetNode(selections: [
+            _i1.FieldNode(
+                name: _i1.NameNode(value: 'regionItems'),
+                alias: null,
+                arguments: [],
+                directives: [],
+                selectionSet: _i1.SelectionSetNode(selections: [
+                  _i1.FieldNode(
+                      name: _i1.NameNode(value: 'regionName'),
+                      alias: null,
+                      arguments: [],
+                      directives: [],
+                      selectionSet: null),
+                  _i1.FieldNode(
+                      name: _i1.NameNode(value: 'regionCode'),
+                      alias: null,
+                      arguments: [],
+                      directives: [],
+                      selectionSet: null),
+                  _i1.FieldNode(
+                      name: _i1.NameNode(value: 'prefItems'),
+                      alias: null,
+                      arguments: [],
+                      directives: [],
+                      selectionSet: _i1.SelectionSetNode(selections: [
+                        _i1.FieldNode(
+                            name: _i1.NameNode(value: 'prefName'),
+                            alias: null,
+                            arguments: [],
+                            directives: [],
+                            selectionSet: null),
+                        _i1.FieldNode(
+                            name: _i1.NameNode(value: 'prefCode'),
+                            alias: null,
+                            arguments: [],
+                            directives: [],
+                            selectionSet: null),
+                        _i1.FieldNode(
+                            name: _i1.NameNode(value: 'areaItems'),
+                            alias: null,
+                            arguments: [],
+                            directives: [],
+                            selectionSet: _i1.SelectionSetNode(selections: [
+                              _i1.FieldNode(
+                                  name: _i1.NameNode(value: 'regionName'),
+                                  alias: null,
+                                  arguments: [],
+                                  directives: [],
+                                  selectionSet: null),
+                              _i1.FieldNode(
+                                  name: _i1.NameNode(value: 'prefName'),
+                                  alias: null,
+                                  arguments: [],
+                                  directives: [],
+                                  selectionSet: null),
+                              _i1.FieldNode(
+                                  name: _i1.NameNode(value: 'areaName'),
+                                  alias: null,
+                                  arguments: [],
+                                  directives: [],
+                                  selectionSet: null),
+                              _i1.FieldNode(
+                                  name: _i1.NameNode(value: 'areaCode'),
+                                  alias: null,
+                                  arguments: [],
+                                  directives: [],
+                                  selectionSet: null)
+                            ]))
+                      ]))
+                ]))
+          ]))
+    ]));
+const document = _i1.DocumentNode(definitions: [fetchRegionList]);

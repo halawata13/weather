@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>406</title>
+    <g id="406" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(224.013970, 122.629327)">
+            <g id="snow" transform="translate(110.322992, 172.500000) rotate(-330.000000) translate(-110.322992, -172.500000) ">
+                <circle id="Oval" fill="#D8D8D8" cx="110.165973" cy="83.4590706" r="83.4590706"></circle>
+                <circle id="Oval" fill="#D8D8D8" cx="110.322992" cy="234.677008" r="110.322992"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="77.6169357" cy="64.2634844" r="10.0150885"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="143.549602" cy="64.2634844" r="10.0150885"></circle>
+                <polygon id="Triangle" fill="#FFFFFF" points="110.583269 90.1357963 126.977015 115.173517 94.1895226 115.173517"></polygon>
+            </g>
+        </g>
+        <circle id="Oval" fill="#D8D8D8" transform="translate(158.813492, 64.247100) rotate(-330.000000) translate(-158.813492, -64.247100) " cx="158.813492" cy="64.2470996" r="14"></circle>
+        <circle id="Oval-Copy-3" fill="#D8D8D8" transform="translate(106.564781, 98.744522) rotate(-330.000000) translate(-106.564781, -98.744522) " cx="106.564781" cy="98.7445222" r="14"></circle>
+        <circle id="Oval-Copy-6" fill="#D8D8D8" transform="translate(52.584019, 132.241945) rotate(-330.000000) translate(-52.584019, -132.241945) " cx="52.5840186" cy="132.241945" r="14"></circle>
+        <circle id="Oval-Copy-9" fill="#D8D8D8" transform="translate(50.564781, 195.739367) rotate(-330.000000) translate(-50.564781, -195.739367) " cx="50.5647807" cy="195.739367" r="14"></circle>
+        <circle id="Oval-Copy-12" fill="#D8D8D8" transform="translate(46.813492, 258.236790) rotate(-330.000000) translate(-46.813492, -258.236790) " cx="46.813492" cy="258.23679" r="14"></circle>
+        <circle id="Oval-Copy" fill="#D8D8D8" transform="translate(209.042965, 93.247100) rotate(-330.000000) translate(-209.042965, -93.247100) " cx="209.042965" cy="93.2470996" r="14"></circle>
+        <circle id="Oval-Copy-4" fill="#D8D8D8" transform="translate(156.794254, 127.744522) rotate(-330.000000) translate(-156.794254, -127.744522) " cx="156.794254" cy="127.744522" r="14"></circle>
+        <circle id="Oval-Copy-7" fill="#D8D8D8" transform="translate(102.813492, 161.241945) rotate(-330.000000) translate(-102.813492, -161.241945) " cx="102.813492" cy="161.241945" r="14"></circle>
+        <circle id="Oval-Copy-10" fill="#D8D8D8" transform="translate(100.794254, 224.739367) rotate(-330.000000) translate(-100.794254, -224.739367) " cx="100.794254" cy="224.739367" r="14"></circle>
+        <circle id="Oval-Copy-13" fill="#D8D8D8" transform="translate(97.042965, 287.236790) rotate(-330.000000) translate(-97.042965, -287.236790) " cx="97.0429654" cy="287.23679" r="14"></circle>
+        <circle id="Oval-Copy-2" fill="#D8D8D8" transform="translate(259.272439, 122.247100) rotate(-330.000000) translate(-259.272439, -122.247100) " cx="259.272439" cy="122.2471" r="14"></circle>
+        <circle id="Oval-Copy-5" fill="#D8D8D8" transform="translate(207.023728, 156.744522) rotate(-330.000000) translate(-207.023728, -156.744522) " cx="207.023728" cy="156.744522" r="14"></circle>
+        <circle id="Oval-Copy-8" fill="#D8D8D8" transform="translate(153.042965, 190.241945) rotate(-330.000000) translate(-153.042965, -190.241945) " cx="153.042965" cy="190.241945" r="14"></circle>
+        <circle id="Oval-Copy-11" fill="#D8D8D8" transform="translate(151.023728, 253.739367) rotate(-330.000000) translate(-151.023728, -253.739367) " cx="151.023728" cy="253.739367" r="14"></circle>
+        <circle id="Oval-Copy-14" fill="#D8D8D8" transform="translate(147.272439, 316.236790) rotate(-330.000000) translate(-147.272439, -316.236790) " cx="147.272439" cy="316.23679" r="14"></circle>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>401</title>
+    <g id="401" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sunny" transform="translate(263.067275, 251.084998)" fill="#CA5933">
+            <circle id="Oval" cx="97.6638657" cy="102.283709" r="62.2917197"></circle>
+            <polygon id="Triangle" points="97.7436677 0 115.695795 30.2806971 79.7915401 30.2806971"></polygon>
+            <polygon id="Triangle" transform="translate(173.399345, 58.820174) rotate(60.000000) translate(-173.399345, -58.820174) " points="173.399345 43.6798257 191.351473 73.9605228 155.447218 73.9605228"></polygon>
+            <polygon id="Triangle" transform="translate(173.399345, 146.179826) rotate(120.000000) translate(-173.399345, -146.179826) " points="173.399345 131.039477 191.351473 161.320174 155.447218 161.320174"></polygon>
+            <polygon id="Triangle" transform="translate(97.743668, 189.859651) rotate(180.000000) translate(-97.743668, -189.859651) " points="97.7436677 174.719303 115.695795 205 79.7915401 205"></polygon>
+            <polygon id="Triangle" transform="translate(22.087990, 146.179826) rotate(240.000000) translate(-22.087990, -146.179826) " points="22.0879902 131.039477 40.0401178 161.320174 4.13586268 161.320174"></polygon>
+            <polygon id="Triangle" transform="translate(22.087990, 58.820174) rotate(300.000000) translate(-22.087990, -58.820174) " points="22.0879902 43.6798257 40.0401178 73.9605228 4.13586268 73.9605228"></polygon>
+        </g>
+        <g id="snow" transform="translate(42.125905, 43.688139)">
+            <circle id="Oval" fill="#D8D8D8" cx="110.165973" cy="83.4590706" r="83.4590706"></circle>
+            <circle id="Oval" fill="#D8D8D8" cx="110.322992" cy="234.677008" r="110.322992"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="77.6169357" cy="64.2634844" r="10.0150885"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="143.549602" cy="64.2634844" r="10.0150885"></circle>
+            <polygon id="Triangle" fill="#FFFFFF" points="110.583269 90.1357963 126.977015 115.173517 94.1895226 115.173517"></polygon>
+        </g>
+    </g>
+</svg>

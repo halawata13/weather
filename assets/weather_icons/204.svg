@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>204</title>
+    <g id="204" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cloudy" transform="translate(38.000000, 44.000000)" fill="#D8D8D8">
+            <circle id="Oval" cx="50.9662921" cy="163.595506" r="50.9662921"></circle>
+            <circle id="Oval" cx="101.932584" cy="104.449438" r="59.1460674"></circle>
+            <circle id="Oval" cx="165.483146" cy="59.1460674" r="59.1460674"></circle>
+            <circle id="Oval" cx="212.674157" cy="147.235955" r="67.3258427"></circle>
+            <rect id="Rectangle" x="57.8876404" y="134.651685" width="157.303371" height="79.9101124"></rect>
+        </g>
+        <g id="snow" transform="translate(317.776619, 240.688139)">
+            <circle id="Oval" fill="#D8D8D8" cx="64.183654" cy="48.6239803" r="48.6239803"></circle>
+            <circle id="Oval" fill="#D8D8D8" cx="64.2751347" cy="136.724865" r="64.2751347"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="45.2203017" cy="37.4404648" r="5.83487763"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="83.6332461" cy="37.4404648" r="5.83487763"></circle>
+            <polygon id="Triangle" fill="#FFFFFF" points="64.4267739 52.5138987 73.9779129 67.1010928 54.8756349 67.1010928"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>101</title>
+    <g id="101" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sunny" transform="translate(46.000000, 46.000000)" fill="#CA5933">
+            <circle id="Oval" cx="154.873452" cy="162.199509" r="98.780993"></circle>
+            <polygon id="Triangle" points="155 0 183.468133 48.0185383 126.531867 48.0185383"></polygon>
+            <polygon id="Triangle" transform="translate(274.973296, 93.275884) rotate(60.000000) translate(-274.973296, -93.275884) " points="274.973296 69.2666149 303.44143 117.285153 246.505163 117.285153"></polygon>
+            <polygon id="Triangle" transform="translate(274.973296, 231.809114) rotate(120.000000) translate(-274.973296, -231.809114) " points="274.973296 207.799845 303.44143 255.818383 246.505163 255.818383"></polygon>
+            <polygon id="Triangle" transform="translate(155.000000, 301.075729) rotate(180.000000) translate(-155.000000, -301.075729) " points="155 277.06646 183.468133 325.084998 126.531867 325.084998"></polygon>
+            <polygon id="Triangle" transform="translate(35.026704, 231.809114) rotate(240.000000) translate(-35.026704, -231.809114) " points="35.0267037 207.799845 63.4948371 255.818383 6.5585703 255.818383"></polygon>
+            <polygon id="Triangle" transform="translate(35.026704, 93.275884) rotate(300.000000) translate(-35.026704, -93.275884) " points="35.0267037 69.2666149 63.4948371 117.285153 6.5585703 117.285153"></polygon>
+        </g>
+        <g id="cloudy" transform="translate(258.000000, 305.000000)" fill="#D8D8D8">
+            <circle id="Oval" cx="35.6304985" cy="114.369501" r="35.6304985"></circle>
+            <circle id="Oval" cx="71.2609971" cy="73.0205279" r="41.3489736"></circle>
+            <circle id="Oval" cx="115.68915" cy="41.3489736" r="41.3489736"></circle>
+            <circle id="Oval" cx="148.680352" cy="102.932551" r="47.0674487"></circle>
+            <rect id="Rectangle" x="40.4692082" y="94.1348974" width="109.970674" height="55.8651026"></rect>
+        </g>
+    </g>
+</svg>

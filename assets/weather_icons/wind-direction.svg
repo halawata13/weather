@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wind-direction</title>
+    <g id="wind-direction" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M250.5,74 L361,255 L300,255 L300,482 L200,482 L200,255 L140,255 L250.5,74 Z M250.5,108.545 L172.078,237 L218,237 L217.999,464 L281.999,464 L282,237 L328.921,237 L250.5,108.545 Z" id="Combined-Shape" fill="#646464" fill-rule="nonzero" transform="translate(250.500000, 278.000000) rotate(-225.000000) translate(-250.500000, -278.000000) "></path>
+    </g>
+</svg>

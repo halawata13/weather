@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>100</title>
+    <g id="100" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(24.230079, 13.550369)" fill="#CA5933">
+            <circle id="Oval" cx="225.769921" cy="236.449631" r="144"></circle>
+            <polygon id="Triangle" points="225.9544 0 267.4544 70 184.4544 70"></polygon>
+            <polygon id="Triangle" transform="translate(400.847911, 135.974816) rotate(60.000000) translate(-400.847911, -135.974816) " points="400.847911 100.974816 442.347911 170.974816 359.347911 170.974816"></polygon>
+            <polygon id="Triangle" transform="translate(400.847911, 337.924447) rotate(120.000000) translate(-400.847911, -337.924447) " points="400.847911 302.924447 442.347911 372.924447 359.347911 372.924447"></polygon>
+            <polygon id="Triangle" transform="translate(225.954400, 438.899262) rotate(180.000000) translate(-225.954400, -438.899262) " points="225.9544 403.899262 267.4544 473.899262 184.4544 473.899262"></polygon>
+            <polygon id="Triangle" transform="translate(51.060889, 337.924447) rotate(240.000000) translate(-51.060889, -337.924447) " points="51.0608891 302.924447 92.5608891 372.924447 9.56088913 372.924447"></polygon>
+            <polygon id="Triangle" transform="translate(51.060889, 135.974816) rotate(300.000000) translate(-51.060889, -135.974816) " points="51.0608891 100.974816 92.5608891 170.974816 9.56088913 170.974816"></polygon>
+        </g>
+    </g>
+</svg>

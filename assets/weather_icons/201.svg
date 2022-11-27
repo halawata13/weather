@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>201</title>
+    <g id="201" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cloudy" transform="translate(38.000000, 44.000000)" fill="#D8D8D8">
+            <circle id="Oval" cx="50.9662921" cy="163.595506" r="50.9662921"></circle>
+            <circle id="Oval" cx="101.932584" cy="104.449438" r="59.1460674"></circle>
+            <circle id="Oval" cx="165.483146" cy="59.1460674" r="59.1460674"></circle>
+            <circle id="Oval" cx="212.674157" cy="147.235955" r="67.3258427"></circle>
+            <rect id="Rectangle" x="57.8876404" y="134.651685" width="157.303371" height="79.9101124"></rect>
+        </g>
+        <g id="sunny" transform="translate(254.974468, 250.084998)" fill="#CA5933">
+            <circle id="Oval" cx="96.7110475" cy="101.285819" r="61.6839956"></circle>
+            <polygon id="Triangle" points="96.7900709 0 114.567056 29.9852756 79.0130861 29.9852756"></polygon>
+            <polygon id="Triangle" transform="translate(171.707644, 58.246319) rotate(60.000000) translate(-171.707644, -58.246319) " points="171.707644 43.2536811 189.484629 73.2389567 153.930659 73.2389567"></polygon>
+            <polygon id="Triangle" transform="translate(171.707644, 144.753681) rotate(120.000000) translate(-171.707644, -144.753681) " points="171.707644 129.761043 189.484629 159.746319 153.930659 159.746319"></polygon>
+            <polygon id="Triangle" transform="translate(96.790071, 188.007362) rotate(180.000000) translate(-96.790071, -188.007362) " points="96.7900709 173.014724 114.567056 203 79.0130861 203"></polygon>
+            <polygon id="Triangle" transform="translate(21.872498, 144.753681) rotate(240.000000) translate(-21.872498, -144.753681) " points="21.8724976 129.761043 39.6494825 159.746319 4.0955128 159.746319"></polygon>
+            <polygon id="Triangle" transform="translate(21.872498, 58.246319) rotate(300.000000) translate(-21.872498, -58.246319) " points="21.8724976 43.2536811 39.6494825 73.2389567 4.0955128 73.2389567"></polygon>
+        </g>
+    </g>
+</svg>

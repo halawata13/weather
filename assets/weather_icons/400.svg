@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>400</title>
+    <g id="400" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="snow" transform="translate(110.125905, 30.688139)">
+            <circle id="Oval" fill="#D8D8D8" cx="139.862888" cy="105.956733" r="105.956733"></circle>
+            <circle id="Oval" fill="#D8D8D8" cx="140.062234" cy="297.937766" r="140.062234"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="98.5397618" cy="81.5866845" r="12.714808"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="182.245581" cy="81.5866845" r="12.714808"></circle>
+            <polygon id="Triangle" fill="#FFFFFF" points="140.392671 114.433272 161.205601 146.220292 119.579742 146.220292"></polygon>
+        </g>
+    </g>
+</svg>

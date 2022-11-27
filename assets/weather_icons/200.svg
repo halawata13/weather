@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>200</title>
+    <g id="200" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(28.000000, 79.000000)" fill="#D8D8D8">
+            <circle id="Oval" cx="81" cy="260" r="81"></circle>
+            <circle id="Oval" cx="162" cy="166" r="94"></circle>
+            <circle id="Oval" cx="263" cy="94" r="94"></circle>
+            <circle id="Oval" cx="338" cy="234" r="107"></circle>
+            <rect id="Rectangle" x="92" y="214" width="250" height="127"></rect>
+        </g>
+    </g>
+</svg>

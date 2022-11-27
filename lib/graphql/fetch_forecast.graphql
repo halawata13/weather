@@ -1,0 +1,81 @@
+query fetchForecast($areaCode: String!) {
+  daily(areaCode: $areaCode) {
+    areaName
+    reportDatetime
+    items {
+      date
+      jmaWeatherImgCode
+      pop
+      tempMin
+      tempMax
+    }
+  }
+  weekly(areaCode: $areaCode) {
+    weekAreaName
+    reportDatetime
+    items {
+      date
+      jmaWeatherImgCode
+      pop
+      tempMin
+      tempMax
+      tempMinUpper
+      tempMinLower
+      tempMaxUpper
+      tempMaxLower
+    }
+  }
+  twoWeek(areaCode: $areaCode) {
+    twoWeekAreaName
+    reportDatetime
+    week1 {
+      date
+      tempMin
+      tempMinUpper
+      tempMinLower
+      tempMinNormal
+      tempMax
+      tempMaxUpper
+      tempMaxLower
+      tempMaxNormal
+    }
+    week2 {
+      date
+      tempMin
+      tempMinUpper
+      tempMinLower
+      tempMinNormal
+      tempMax
+      tempMaxUpper
+      tempMaxLower
+      tempMaxNormal
+    }
+  }
+  month1(areaCode: $areaCode) {
+    seasonAreaName
+    reportDatetime
+    items {
+      fromDate
+      toDate
+      temperature
+    }
+  }
+  month3(areaCode: $areaCode) {
+    seasonAreaName
+    reportDatetime
+    items {
+      fromDate
+      toDate
+      temperature
+    }
+  }
+  month6(areaCode: $areaCode) {
+    seasonAreaName
+    reportDatetime
+    items {
+      fromDate
+      toDate
+      temperature
+    }
+  }
+}

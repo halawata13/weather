@@ -1,0 +1,18 @@
+query fetchRegionList {
+  regionList {
+    regionItems {
+      regionName
+      regionCode
+      prefItems {
+        prefName
+        prefCode
+        areaItems {
+          regionName
+          prefName
+          areaName
+          areaCode
+        }
+      }
+    }
+  }
+}

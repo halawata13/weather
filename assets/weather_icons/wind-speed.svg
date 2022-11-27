@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wind-speed</title>
+    <g id="wind-speed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M170.5,-16 L247,110 L204.5,110 L204.5,268.5 L135.5,268.5 L135.5,110 L94,110 L170.5,-16 Z M170.5,18.684 L125.986,92 L153.5,92 L153.5,250.5 L186.5,250.5 L186.5,92 L215.013,92 L170.5,18.684 Z" id="Combined-Shape" fill="#646464" fill-rule="nonzero" transform="translate(170.500000, 126.250000) rotate(-270.000000) translate(-170.500000, -126.250000) "></path>
+        <path d="M250.5,117 L327,243 L284.5,243 L284.5,401.5 L215.5,401.5 L215.5,243 L174,243 L250.5,117 Z M250.499,151.683 L205.986,225 L233.5,225 L233.5,383.5 L266.5,383.5 L266.5,225 L295.013,225 L250.499,151.683 Z" id="Combined-Shape" fill="#646464" fill-rule="nonzero" transform="translate(250.500000, 259.250000) rotate(-270.000000) translate(-250.500000, -259.250000) "></path>
+        <path d="M330.5,250 L407,376 L364.5,376 L364.5,534.5 L295.5,534.5 L295.5,376 L254,376 L330.5,250 Z M330.499,284.683 L285.986,358 L313.5,358 L313.5,516.5 L346.5,516.5 L346.5,358 L375.013,358 L330.499,284.683 Z" id="Combined-Shape" fill="#646464" fill-rule="nonzero" transform="translate(330.500000, 392.250000) rotate(-270.000000) translate(-330.500000, -392.250000) "></path>
+    </g>
+</svg>

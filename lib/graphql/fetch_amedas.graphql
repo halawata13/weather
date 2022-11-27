@@ -1,0 +1,34 @@
+query amedas($areaCode: String!) {
+  amedas(areaCode: $areaCode) {
+    pressure
+    normalPressure
+    temp
+    humidity
+    snow
+    snow1h
+    snow6h
+    snow12h
+    snow24h
+    sun10m
+    sun1h
+    precipitation10m
+    precipitation1h
+    precipitation3h
+    precipitation24h
+    windDirection
+    wind
+    maxTempTimeHour
+    maxTempTimeMinute
+    maxTemp
+    minTempTimeHour
+    minTempTimeMinute
+    minTemp
+    gustTimeHour
+    gustTimeMinute
+    gustDirection
+    gust
+    reportDatetime
+    amedasCode
+    amedasName
+  }
+}
